@@ -1,0 +1,8 @@
+{"brand": "HP", "model": "Specter","name": "HP Specter", "cpuType": "INTEL7", "memory": 16, "size": 13, "price": 1300, "qtyAvailable": 25}
+{"brand": "Apple", "model": "Mac","name": "Apple Mac", "cpuType": "INTEL9", "memory": 32, "size": 20, "price": 1950, "qtyAvailable": 15}
+{"brand": "Lenovo", "model": "Specter","name": "HP Specter", "cpuType": "INTEL3", "memory": 8, "size": 17, "price": 1500, "qtyAvailable": 30}
+{"brand": "Google", "model": "ChromeBook","name": "HP Specter", "cpuType": "INTEL7", "memory": 16, "size": 15, "price": 750, "qtyAvailable": 20}
+{"brand": "HP", "model": "Palvlion","name": "HP Palvlion", "cpuType": "INTEL5", "memory": 8, "size": 17, "price": 800, "qtyAvailable": 40}
+{"brand": "Asus", "model": "Zenbook","name": "Asus Zenbook", "cpuType": "INTEL7", "memory": 8, "size": 13, "price": 1350, "qtyAvailable": 20}
+{"brand": "Microsoft", "model": "Surface","name": "HP Specter", "cpuType": "INTEL3", "memory": 4, "size": 15, "price": 1200, "qtyAvailable": 50}
+{"brand": "Dell", "model": "Alienware","name": "HP Specter", "cpuType": "INTEL9", "memory": 32, "size": 18, "price": 1650, "qtyAvailable": 45}
